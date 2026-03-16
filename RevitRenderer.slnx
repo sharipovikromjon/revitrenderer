@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/RevitRenderer.Api/RevitRenderer.Api.csproj" />
+    <Project Path="backend/RevitRenderer.Core/RevitRenderer.Core.csproj" />
+  </Folder>
+</Solution>

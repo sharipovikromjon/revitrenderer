@@ -1,0 +1,6 @@
+@RevitRenderer.Api_HostAddress = http://localhost:5102
+
+GET {{RevitRenderer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
